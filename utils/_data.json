@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/images/3dc.webp",
+        "location": "London",
+        "distance": "45-minute drive"
+    },
+    {
+        "id": 2,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/images/9mj.webp",
+        "location": "Manchester",
+        "distance": "4.5-hour drive"
+    },
+    {
+        "id": 3,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/images/g6c.webp",
+        "location": "Liverpool",
+        "distance": "4.5-hour drive"
+    },
+    {
+        "id": 4,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/images/h8m.webp",
+        "location": "York",
+        "distance": "5-hour drive"
+    },
+    {
+        "id": 5,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/images/k2s.webp",
+        "location": "Cardiff",
+        "distance": "45-minute drive"
+    },
+    {
+        "id": 6,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/images/l4d.webp",
+        "location": "Essex",
+        "distance": "4.5-hour drive"
+    },
+    {
+        "id": 7,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/images/mk5.webp",
+        "location": "Hove",
+        "distance": "6-hour drive"
+    },
+    {
+        "id": 8,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/images/ml8.webp",
+        "location": "Leicester",
+        "distance": "2-hour drive"
+    }
+]

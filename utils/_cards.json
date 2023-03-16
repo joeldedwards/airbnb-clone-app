@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/images/dp0.webp",
+        "title": "Outdoor Getaway"
+    },
+    {
+        "id": 2,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/images/05v.webp",
+        "title": "Unique Stays"
+    },
+    {
+        "id": 3,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/images/e7o.webp",
+        "title": "Entire Homes"
+    },
+    {
+        "id": 4,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/images/p3y.webp",
+        "title": "Pets Allowed"
+    }
+]
