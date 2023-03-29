@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/listings/2cv.webp",
+        "location": "Miami Beach",
+        "title": "FountaineBleau Resort Condo",
+        "description": "FountaineBleau Resort entire condo comes w/ a balcony and an Ocean/Pool View",
+        "star": 4.74,
+        "price": "$399 / Night",
+        "total": "$2593 Total",
+        "long": 25.8178372,
+        "lat": -80.1227119
+    },
+    {
+        "id": 2,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/listings/3df.webp",
+        "location": "Miami Beach",
+        "title": "FountaineBleau Resort Condo",
+        "description": "FountaineBleau Resort entire condo comes w/ a balcony and an Ocean/Pool View",
+        "star": 4.74,
+        "price": "$399 / Night",
+        "total": "$2593 Total",
+        "long": 25.8178372,
+        "lat": -80.1227119
+    },
+    {
+        "id": 3,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/listings/4fg.webp",
+        "location": "Miami Beach",
+        "title": "FountaineBleau Resort Condo",
+        "description": "FountaineBleau Resort entire condo comes w/ a balcony and an Ocean/Pool View",
+        "star": 4.74,
+        "price": "$399 / Night",
+        "total": "$2593 Total",
+        "long": 25.8178372,
+        "lat": -80.1227119
+    },
+    {
+        "id": 4,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/listings/6nm.webp",
+        "location": "Miami Beach",
+        "title": "FountaineBleau Resort Condo",
+        "description": "FountaineBleau Resort entire condo comes w/ a balcony and an Ocean/Pool View",
+        "star": 4.74,
+        "price": "$399 / Night",
+        "total": "$2593 Total",
+        "long": 25.8178372,
+        "lat": -80.1227119
+    },
+    {
+        "id": 5,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/listings/d0c.webp",
+        "location": "Miami Beach",
+        "title": "FountaineBleau Resort Condo",
+        "description": "FountaineBleau Resort entire condo comes w/ a balcony and an Ocean/Pool View",
+        "star": 4.74,
+        "price": "$399 / Night",
+        "total": "$2593 Total",
+        "long": 25.8178372,
+        "lat": -80.1227119
+    },
+    {
+        "id": 6,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/listings/f9b.webp",
+        "location": "Miami Beach",
+        "title": "FountaineBleau Resort Condo",
+        "description": "FountaineBleau Resort entire condo comes w/ a balcony and an Ocean/Pool View",
+        "star": 4.74,
+        "price": "$399 / Night",
+        "total": "$2593 Total",
+        "long": 25.8178372,
+        "lat": -80.1227119
+    },
+    {
+        "id": 7,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/listings/g8t.webp",
+        "location": "Miami Beach",
+        "title": "FountaineBleau Resort Condo",
+        "description": "FountaineBleau Resort entire condo comes w/ a balcony and an Ocean/Pool View",
+        "star": 4.74,
+        "price": "$399 / Night",
+        "total": "$2593 Total",
+        "long": 25.8178372,
+        "lat": -80.1227119
+    },
+    {
+        "id": 8,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/listings/h6m.webp",
+        "location": "Miami Beach",
+        "title": "FountaineBleau Resort Condo",
+        "description": "FountaineBleau Resort entire condo comes w/ a balcony and an Ocean/Pool View",
+        "star": 4.74,
+        "price": "$399 / Night",
+        "total": "$2593 Total",
+        "long": 25.8178372,
+        "lat": -80.1227119
+    },
+    {
+        "id": 9,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/listings/hm9.webp",
+        "location": "Miami Beach",
+        "title": "FountaineBleau Resort Condo",
+        "description": "FountaineBleau Resort entire condo comes w/ a balcony and an Ocean/Pool View",
+        "star": 4.74,
+        "price": "$399 / Night",
+        "total": "$2593 Total",
+        "long": 25.8178372,
+        "lat": -80.1227119
+    },
+    {
+        "id": 10,
+        "img": "http://cdn.trinicreations.com/builds/react/airbnb-clone-app/listings/n6f.webp",
+        "location": "Miami Beach",
+        "title": "FountaineBleau Resort Condo",
+        "description": "FountaineBleau Resort entire condo comes w/ a balcony and an Ocean/Pool View",
+        "star": 4.74,
+        "price": "$399 / Night",
+        "total": "$2593 Total",
+        "long": 25.8178372,
+        "lat": -80.1227119
+    }
+]
