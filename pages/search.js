@@ -3,6 +3,7 @@ import { useRouter } from 'next/router'
 import Footer from '../components/Footer'
 import Header from '../components/Header'
 import InfoCard from '../components/InfoCard';
+import MapBox from '../components/Map';
 
 function Search({ searchResults }) {
 
@@ -48,6 +49,10 @@ function Search({ searchResults }) {
                         ))
                     }
                     </div>
+                </section>
+
+                <section className='hidden xl:inline-flex xl:min-w-[600px]'>
+                    <MapBox searchResults={searchResults} />
                 </section>
             </main>
             <Footer />
