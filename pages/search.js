@@ -14,10 +14,10 @@ function Search({ searchResults }) {
     const range = `${formattedStartDate} - ${formattedEndDate}`;
     
     return (
-        <div className='h-screen'>
+        <div className='h-screen overflow-hidden'>
             <Header placeholder={`${location} | ${range} | ${numOfGuests} guests`} />
-            <main className='flex'>
-                <section className='flex-grow pt-14 px-6'>
+            <main className='flex h-screen'>
+                <section className='flex-grow pt-14 px-6 overflow-y-auto'>
                     <p className='text-xs'>
                         300+ Stays - {range} for {numOfGuests} Guests
                     </p>
@@ -51,7 +51,7 @@ function Search({ searchResults }) {
                     </div>
                 </section>
 
-                <section className='hidden xl:inline-flex xl:min-w-[600px]'>
+                <section className='hidden h-screen xl:inline-flex xl:min-w-[600px]'>
                     <MapBox searchResults={searchResults} />
                 </section>
             </main>
