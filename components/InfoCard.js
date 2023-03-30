@@ -9,7 +9,8 @@ function InfoCard({ id, img, location, title, description, star, price, total, l
             <Image 
                 src={img}
                 fill={true}
-                className='object-cover rounded-2xl' />
+                className='object-cover rounded-2xl'
+                alt={title} />
         </div>
         <div className='flex flex-col flex-grow pl-5'>
             <div className='flex justify-between'>

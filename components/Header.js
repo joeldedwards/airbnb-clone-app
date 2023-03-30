@@ -55,6 +55,7 @@ function Header({placeholder}) {
                 src='http://cdn.trinicreations.com/builds/react/airbnb-clone-app/images/qd3.webp'
                 fill={true}
                 className='object-contain object-left'
+                alt=''
              />
         </div>
         <div 

@@ -10,6 +10,7 @@ function LargeCard({ img, title, description, buttonText }) {
                 src={img}
                 fill={true}
                 className='object-cover rounded-2xl'
+                alt={title}
             />
         </div>
 

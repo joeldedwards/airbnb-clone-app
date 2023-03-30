@@ -1,8 +1,11 @@
 import * as React from 'react'
 import Map, { Marker, Popup } from 'react-map-gl'
+import 'mapbox-gl/dist/mapbox-gl.css'
 import getCenter from 'geolib/es/getCenter'
 
 function MapBox({ searchResults }) {
+    const [selectedLocation, setSelectedLocation] = React.useState({});
+
     const coordinates = searchResults.map(result => ({
         latitude: result.lat,
         longitude: result.long,
@@ -32,8 +35,25 @@ function MapBox({ searchResults }) {
                             longitude={result.long} 
                             latitude={result.lat} 
                             anchor='bottom'>
-                            <p className='cursor-pointer text-2xl'>📍</p>
+                            <p 
+                                className='cursor-pointer text-2xl'
+                                onClick={() => setSelectedLocation(result)}>
+                                📍
+                            </p>
                         </Marker>
+                        {
+                            selectedLocation.long === result.long ? (
+                                <Popup 
+                                    onClose={() => setSelectedLocation({})}
+                                    closeOnClick={true}
+                                    latitude={result.lat}
+                                    longitude={result.long}>
+                                    {result.title}
+                                </Popup>
+                            ) : (
+                                false
+                            )
+                        }
                     </div>
                 ))
             }
